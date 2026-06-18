@@ -41,3 +41,9 @@ python standardize.py
 python diarization.py
 python segmentation.py
 python transcribe.py
+```
+
+## Dataset
+
+The full processed dataset (audio + metadata) is available here:  
+[krishhankarrr/tts-dataset](https://huggingface.co/datasets/krishhankarrr/tts-dataset)
